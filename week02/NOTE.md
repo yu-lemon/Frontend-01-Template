@@ -1,7 +1,5 @@
 # 每周总结
 ## unicode
-[unicode主站](https://home.unicode.org/)
-[Unicode Characters](http://www.fileformat.info/info/unicode/category/index.htm)
 
 Unicode CJK
 即中文 日文 韩文取值范围
@@ -38,14 +36,6 @@ IEEE 754 Double Float
 >* OctalIntegerLiteral
 >* HexIntegerLiteral
 
-### Practice
->* Safe Intger 最安全的整数范围
-   Number.MAX_SAFE_INTERGER.toString（）
->* Float Compare
-   Math.abs(0.1+0.2-0.3) <= EPSILON)
-
-作业:
-写一个正则表达式，表达所有Number的直接量
 
 ## String
 >* character
