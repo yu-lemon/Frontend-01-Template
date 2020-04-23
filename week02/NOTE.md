@@ -14,12 +14,12 @@ InputElement
    WhiteSpace
    LineTerminator
    Comment
-   Token(javascript 中一些有效的东西都叫token)
+   Token
      Punctuator
      IndetifierName
        Keywords
        Indetifier
-       Future reserved Keywords（将来要用的关键）:enum
+       Future reserved Keywords :enum
     Literal
        Number
        String
@@ -41,14 +41,5 @@ IEEE 754 Double Float
 >* character
 >* Code Point
 >* Encoding
-#
-写一个正则表达式 匹配所有 Number 直接量
-写一个 UTF-8 Encoding 的函数
-写一个正则表达式，匹配所有的字符串直接量，单引号和双引号
 
-
-## 作业 本周赶需求，没有留下充足时间来学习和完成作业  后期会努力赶上
-
-   LineTerminator加班
-   LineTerminator干需求
-   LineTerminator
+## 作业 本周加班赶需求，没有留下充足时间来学习和完成作业  后期会努力赶上
